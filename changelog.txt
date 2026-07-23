@@ -1,3 +1,2 @@
-- Fixed login window
-- Updated skeleton ESP
-- Improved performance
+- Added new feature
+- Fixed skeleton ESP
