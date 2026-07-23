@@ -1,4 +1,3 @@
-- Added skeleton ESP
-- Fixed bone positions
-- Internal DLL support
+- Fixed login window
+- Updated skeleton ESP
 - Improved performance
