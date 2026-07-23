@@ -1,4 +1,4 @@
-v1.2
-- Added auto-updater
-- Fixed Steam launch
-- New menu system
+- Added skeleton ESP
+- Fixed bone positions
+- Internal DLL support
+- Improved performance
